@@ -1,0 +1,6 @@
+{
+  "name": "StockCourt AI",
+  "description": "Your AI-powered stock research courtroom. Put investment cases on trial with Bull Analyst, Bear Analyst, and Evidence Judge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
